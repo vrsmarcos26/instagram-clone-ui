@@ -87,5 +87,5 @@ Este projeto está sob a licença MIT.
 <hr>
 
 <p align="center">
-  Desenvolvido por <b>SEU NOME</b>
+  Desenvolvido por <b>Marcos Vinícius Rocha Silva</b>
 </p>
