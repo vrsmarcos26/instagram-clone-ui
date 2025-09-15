@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="Tecnologia Principal" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img alt="Linguagem do Layout" src="https://img.shields.io/badge/XML-d9534f?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img alt="Licença" src="https://img.shields.io/github/license/vrsmarcos/instagram-clone-ui?style=for-the-badge&color=blue">
+  <img alt="Licença" src="https://img.shields.io/github/license/vrsmarcos26/instagram-clone-ui?style=for-the-badge&color=blue">
 </p>
 
 <p align="center">
@@ -56,9 +56,8 @@ Para visualizar este layout:
 
 **➡️ IMPORTANTE:** Substitua o link abaixo por um screenshot do seu app rodando!
 
-![Demonstração da UI do Instagram](https://i.imgur.com/your-screenshot-url.png)
+arquivo print
 
-<details>
 <summary><strong>💡 Análise da Estrutura do Layout (Write-up)</strong></summary>
 <br>
 
@@ -78,7 +77,6 @@ A estrutura deste layout foi pensada para espelhar a complexidade da tela do Ins
 
 5.  **Barra de Navegação Inferior (Bottom Bar)**: Um `LinearLayout` horizontal fixado na parte inferior da tela, contendo os ícones de navegação. O uso de `layout_weight` garante que os ícones se distribuam igualmente pelo espaço disponível.
 
-</details>
 
 ---
 
